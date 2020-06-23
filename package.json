@@ -1,0 +1,16 @@
+{
+  "name": "codeable-chat",
+  "version": "0.1.0",
+  "description": "A demo chat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --mount=/:public --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ricardo Huamani <ricardohuamanip@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ws": "^7.3.0"
+  }
+}
