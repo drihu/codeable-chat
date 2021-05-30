@@ -11,6 +11,6 @@
   "author": "Ricardo Huamani <ricardohuamanip@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   }
 }
